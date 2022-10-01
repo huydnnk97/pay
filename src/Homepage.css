@@ -1,0 +1,15 @@
+.SearchInput {
+    width: 60%;
+    font-size: 13px;
+}
+
+.head1 {
+    width: 20%;
+}
+
+.head2 {
+    width: 10%;
+}
+* {
+    box-sizing: border-box;
+  }
